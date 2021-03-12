@@ -13,7 +13,7 @@ header {
 
 section {
   background-attachment: fixed;
-  background-image: url(/img/sally_1.jpg);
+  background-image: url('img/sally_1.jpg');
   background-size: cover;
 	height: 100vh;
 }
@@ -40,15 +40,15 @@ a:hover {
 }
 
 .image_2 {
-  background-image: url(/img/sally_2.jpg);
+  background-image: url('../img/sally_2.jpg');
 }
 
 .image_3 {
-  background-image: url(/img/sally_3.jpg);
+  background-image: url('../img/sally_3.jpg');
 }
 
 .image_4 {
-  background-image: url(/img/sally_4.jpg);
+  background-image: url('../img/sally_4.jpg');
 }
 
 footer a {
